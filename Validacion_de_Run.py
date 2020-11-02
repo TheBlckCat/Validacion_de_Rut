@@ -18,8 +18,6 @@ def verificador_run(Run):
         Rf = 0
 
     if Rf == int(verificador):
-        print(Rf)
-        print(verificador)
         return True
     else:
         return False
